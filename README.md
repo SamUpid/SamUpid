@@ -81,15 +81,13 @@ Contributing to the **JuliaSymbolics** open-source ecosystem — a library imple
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
-
-![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamUpid&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamUpid&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-</div>
+- 🔭 Currently building AI/ML systems and full-stack web apps
+- 🌱 Exploring: deep learning, system design, AI safety
+- 🎓 BSc Computer Science @ BME, Budapest
+- 🌍 Open to remote or relocation for internships
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/neeraj-kumar-309bb227a/)
 
 ---
 
