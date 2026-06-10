@@ -11,7 +11,11 @@ I build things across the full stack — from AI-powered web apps and deep learn
 
 </div>
 
----
+<div align="center">
+
+[![Watch my project walkthrough](https://img.youtube.com/vi/MseNig0LNAw/maxresdefault.jpg)](https://www.youtube.com/watch?v=MseNig0LNAw)
+
+</div>
 
 ## 🚀 Featured Projects
 
