@@ -9,11 +9,12 @@ I build things across the full stack — from AI-powered web apps and deep learn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-kumar-309bb227a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamUpid)
 
-</div>
-
 <div align="center">
 
-[![Watch my project walkthrough](https://img.youtube.com/vi/MseNig0LNAw/maxresdefault.jpg)](https://www.youtube.com/watch?v=MseNig0LNAw)
+### 🎬 Portfolio Walkthrough
+*Click to watch my project demo*
+
+[<img src="https://img.youtube.com/vi/MseNig0LNAw/hqdefault.jpg" width="700">](https://www.youtube.com/watch?v=MseNig0LNAw)
 
 </div>
 
